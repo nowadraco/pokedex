@@ -1,0 +1,1 @@
+quando comecei a ver como fuciona APIs
